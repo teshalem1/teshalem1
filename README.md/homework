@@ -1,9 +1,49 @@
-Mekonnen teshale
-Database 
-Your last homework is to have a "plan" for your final project. Turn in a markdown file with:
-•	your partner (or telling me you don't have a partner)
-•	your data
-o	What's in it, what's interesting about it, where it comes from
-•	an introduction paragraph to the data
-•	a few questions that you plan to ask about the data/graphs you plan to make
+
+# Final Project Plan
+
+# Partner
+I don't have a partner for this project.
+
+# Data
+The data set I'll be using is the "Board Game Geek Reviews" data set.
+
+# What's in it, What's Interesting About It, Where It Comes From
+This data set contains detailed information about various board games,
+including their ratings, number of reviews, publication year, playtime, 
+and player count, among other attributes. The data has been sourced from the BoardGameGeek website,
+which is a large community-driven platform for board game enthusiasts.
+What's fascinating about this data set is its richness and diversity, 
+allowing for a wide range of analyses and insights into gaming trends, preferences,
+and the evolution of board games over time.
+
+# Introduction Paragraph to the Data
+Board games have been a significant part of social entertainment for centuries, evolving from simple
+traditional games to complex strategy-based games. The "Board Game Geek Reviews" data set offers a
+comprehensive look into this world, capturing various attributes of board games rated and reviewed by
+enthusiasts on the BoardGameGeek platform. With data spanning from publication years to user ratings 
+and the complexity of games, this data set provides a fertile ground for analyzing trends,
+player preferences, and the development of the board game industry.
+
+# Questions to Ask About the Data/Graphs to Make
+1. **What are the top-rated board games of all time?**
+   - **Graph:** A bar plot showing the top 10 highest-rated games.
+   
+2. **How has the popularity of board games changed over the years?**
+   - **Graph:** A line graph showing the number of games published each year.
+   
+3. **Is there a correlation between the complexity of a game and its rating?**
+   - **Graph:** A scatter plot comparing the complexity rating and the average user rating of games.
+   
+4. **What are the most common themes or categories among top-rated games?**
+   - **Graph:** A bar plot showing the frequency of different categories among the top-rated games.
+
+5. **Which publishers have the highest average game ratings?**
+   - **Graph:** A bar plot showing the top publishers by average rating of their games.
+
+This plan outlines my approach to delve into the intricate world of board games, leveraging data to unveil patterns, trends, and insights.
+
+---
+
+
+
 
